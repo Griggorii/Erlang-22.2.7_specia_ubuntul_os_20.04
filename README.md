@@ -7,6 +7,8 @@ $ tar xvpf erlang_19.3.tar.xz  -C /tmp
 
 $ cd /tmp/erlang_19.3_Griggorii_generate_special_os_20.04
 
+$ sudo apt update && sudo apt install libncurses-dev -y
+
 $ sudo make install
 
 Spesial OS mainframe build erlang in rebuld OS20.04 + QT4: http://chng.it/WDfJZLPgZZ
