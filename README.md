@@ -7,4 +7,4 @@ $ tar xvpf erlang_19.3.tar.xz  -C /tmp
 
 $ cd /tmp/erlang_19.3_Griggorii_generate_special_os_20.04
 
-$ make install
+$ sudo make install
