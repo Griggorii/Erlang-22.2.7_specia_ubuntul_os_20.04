@@ -11,6 +11,6 @@ $ sudo apt update && sudo apt install libncurses-dev -y
 
 $ sudo make install
 
-Spesial OS mainframe build erlang in rebuld OS20.04 + QT4: http://chng.it/WDfJZLPgZZ
+Build erlang received on the system spesial OS mainframe OS20.04 + QT4: http://chng.it/WDfJZLPgZZ
 
 Support https://www.youtube.com/channel/UC6WtVfU5gi2CQ4ionzbz1CQ and donate dollar card visa VISA 4817 7601 8112 4706 thanks
