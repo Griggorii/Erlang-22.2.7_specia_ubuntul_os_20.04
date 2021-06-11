@@ -3,6 +3,10 @@ erlang , Releases
 
 https://github.com/Griggorii/erlang_19.3_Griggorii_generate_special_os_20.04/releases/tag/erlang-19.3
 
+$ cd ~/
+
+$ wget https://github.com/Griggorii/erlang_19.3_Griggorii_generate_special_os_20.04/releases/download/erlang-19.3/erlang_19.3.tar.xz
+
 $ tar xvpf erlang_19.3.tar.xz  -C /tmp
 
 $ cd /tmp/erlang_19.3_Griggorii_generate_special_os_20.04
