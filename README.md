@@ -5,9 +5,17 @@ https://github.com/Griggorii/erlang_19.3_Griggorii_generate_special_os_20.04/rel
 
 $ cd ~/
 
+Linux cs-907984792007-default-boost-btvhm 5.4.104+ gcc-8 , python3.7 build dump google-cloud
+
+$ wget https://github.com/Griggorii/erlang_19.3_Griggorii_generate_special_os_20.04/releases/download/erlang-19.3/erlang_google_mainframe_19.3.tar.xz
+
+and ubuntu 20.04
+
 $ wget https://github.com/Griggorii/erlang_19.3_Griggorii_generate_special_os_20.04/releases/download/erlang-19.3/erlang_19.3.tar.xz
 
 $ tar xvpf erlang_19.3.tar.xz  -C /tmp
+
+and variant google-cloud build dump tar xvpf erlang_google_mainframe_19.3.tar.xz  -C /tmp
 
 $ cd /tmp/erlang_19.3_Griggorii_generate_special_os_20.04
 
