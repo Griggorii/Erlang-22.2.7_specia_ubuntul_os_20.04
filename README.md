@@ -1,6 +1,6 @@
 # Erlang-22.2.7_specia_ubuntul_os_20.04
 
-Deb package https://github.com/Griggorii/Erlang-22.2.7_specia_ubuntul_os_20.04/releases/tag/erlang-22.2.7
+Deb package https://github.com/Griggorii/Erlang-22.2.7_special_ubuntu_os_20.04/releases/tag/erlang-22.2.7
 
 + dependency deb reserve old
 
