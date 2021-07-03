@@ -1,5 +1,4 @@
-# erlang_19.3_Griggorii_generate_special_os_20.04 , objective deps libs dump structure
-erlang , Releases
+# Erlang-22.2.7_specia_ubuntul_os_20.04
 
 https://github.com/Griggorii/erlang_19.3_Griggorii_generate_special_os_20.04/releases/tag/erlang-19.3
 
